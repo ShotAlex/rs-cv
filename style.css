@@ -12,14 +12,27 @@ body {
   max-width: 1024px;
 }
 
-.header {
+.header,
+.footer {
   display: flex;
   justify-content: space-between;
   background-color: rgb(222, 222, 222);
   padding: 20px;
 }
 
-.header__phone-phone {
+.header__phone-phone,
+.footer__links-git {
   text-decoration: none;
   color: #000
+}
+
+.header__phone-phone:hover,
+.footer__links-git:hover {
+  color: rgb(93, 93, 93);
+}
+
+
+.main {
+  padding: 80px 20px;
+  background-color: rgb(244, 244, 244);
 }
