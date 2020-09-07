@@ -1,5 +1,3 @@
-# [rsschool-cv](https://shotalex.github.io/CV/)
-
 1. ### Alexandr Shot
 
 2. ### Contact Info 
